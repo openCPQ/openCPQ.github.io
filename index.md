@@ -10,7 +10,7 @@ implemented some tools that are not specific to a particular customer.
 To support further development of these tools in a cooperative way we
 have released them as open-source projects:
 
-* [VClipse](/VClipse), an Eclipse-bases IDE for product modeling for the
+* [VClipse](/VClipse), an Eclipse-based IDE for product modeling for the
   SAP Variant Configurator
 * [openCPQ](/openCPQ), a browser-based configuration framework
 
