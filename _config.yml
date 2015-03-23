@@ -1,2 +1,13 @@
 url: "http://webXcerpt.github.io"
 title: "Open-Source Projects by webXcerpt Software GmbH"
+
+exclude:
+  - "Gemfile"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
